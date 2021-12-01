@@ -1,0 +1,2 @@
+#remove .vscode who contains the infos for compiling and debugging
+.vscode/
