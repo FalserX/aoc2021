@@ -3,6 +3,4 @@
 #remove command.txt who contains code to execute to add to .gitignore.
 command.txt
 #remove all executables
-
-./day1/main1-2
-./day1/main1-1
+./day1/main
