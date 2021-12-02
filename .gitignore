@@ -1,6 +1,4 @@
 #remove .vscode who contains the infos for compiling and debugging
 .vscode/
-#remove command.txt who contains code to execute to add to .gitignore.
-command.txt
 #remove all executables
-./day1/main.o
+*.[oa]
